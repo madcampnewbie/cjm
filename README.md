@@ -1,4 +1,4 @@
-Hi 👋, I'm C JM
+# Hi 👋, I'm C JM
 
 🎓 Education  
 - KAIST (Korea Advanced Institute of Science and Technology)  
